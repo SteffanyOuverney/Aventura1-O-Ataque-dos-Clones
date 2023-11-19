@@ -23,8 +23,8 @@ const App = () => {
       <Text style={styles.title}>Milhões de músicas à sua escolha.</Text>
       <Text style={styles.title}>Grátis no Spotify.</Text>
       
-      <TouchableOpacity style={styles.buttonWTF}>
-        <Text style={styles.buttonText}>Inscreva-se grátis</Text>
+      <TouchableOpacity style={styles.button1}>
+        <Text style={styles.titleButt}>Inscreva-se grátis</Text>
       </TouchableOpacity>
 
     <FlatList

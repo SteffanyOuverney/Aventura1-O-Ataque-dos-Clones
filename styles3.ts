@@ -4,25 +4,25 @@ export const styles = StyleSheet.create({
     container:
     {
         flex: 1,
-        backgroundColor: "#212121",
+        backgroundColor: "#121212",
         paddingTop: 60,
         alignItems: 'center',
     },
     title1:
     {
-        color: '#fff',
+        color: '#fcfcfc',
         fontSize: 20,
         fontWeight: 'bold',
         paddingBottom: 20
     },
     title:
     {
-        color: '#fff',
+        color: '#fcfcfc',
         fontSize: 24,
         fontWeight: 'bold',
     },
     input: {
-        backgroundColor:'#424242',
+        backgroundColor:'#414141',
         color: '#fff',
         fontSize: 18,
         padding: Platform.OS === 'ios' ? 15 : 10,
@@ -31,7 +31,7 @@ export const styles = StyleSheet.create({
         width: '80%' 
     },
     button: {
-        backgroundColor: '#424242',
+        backgroundColor: '#4d4d4d',
         borderColor: 'white',
         borderWidth: 1,
         padding: 10,
@@ -45,7 +45,7 @@ export const styles = StyleSheet.create({
     },
     button2:
     {
-        backgroundColor: 'transparent',
+        backgroundColor: '#121212',
         borderColor: 'white',
         borderWidth: 1,
         padding: 10,

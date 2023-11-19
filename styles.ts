@@ -4,7 +4,7 @@ export const styles = StyleSheet.create({
     container:
     {
         flex: 1,
-        backgroundColor: "#212121",
+        backgroundColor: "#121212",
         justifyContent: 'center',
         alignItems: 'center',
         paddingTop: 150,
@@ -12,7 +12,7 @@ export const styles = StyleSheet.create({
     },
     title:
     {
-        color: '#fff',
+        color: '#fafafa',
         fontSize: 20,
         fontWeight: 'bold',
         paddingTop:10
@@ -27,8 +27,8 @@ export const styles = StyleSheet.create({
         width: 30,
         height: 30,
     },
-    buttonWTF: {
-        backgroundColor: '#558B2F',
+    button1: {
+        backgroundColor: '#1ed760',
         borderColor: 'white',
         padding: 10,
         borderRadius: 100, 
@@ -38,6 +38,12 @@ export const styles = StyleSheet.create({
         width: 350,
         height:60
     }, 
+    titleButt:
+    {
+        color: '#021700',
+        fontSize: 15,
+        fontWeight: 'bold'
+    },
     button: {
         backgroundColor: 'transparent',
         borderColor: 'white',
